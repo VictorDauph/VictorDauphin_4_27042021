@@ -1,0 +1,32 @@
+Objectif: générer des recommandations à intégrer au document de travail d'audit. Ces recommandations doivent porter sur l'accessibilité et sur la SEO.
+
+Plan de travail: 
+0) lis les ressources d'Arsène sur l'accessibilité
+
+1) accesssibilité (outils: (wave et axe) doublons? pour les tests automatisé
+1.1)tests automatisés
+utiliser axe sur les deux pages, évaluer l'importance des erreures remontées et noter les erreures pertinentes, plus les corrections proposées.
+Headings map
+1.2) inspections manuelle
+Utiliser le guide de test mobile+ le guide de test du cours. sur les 2 pages
+1.3) Inspection avec technologies d'assistance
+-tester navigation au clavier  sur les 2 pages
+vérifier:
+    Toutes les fonctions sont accessibles avec un clavier (SC 2.1.1).
+
+    Le focus reste bloqué quelque part sur la page (SC 2.1.2).
+
+    Un lien d'accès direct au contenu vous permet de passer rapidement des blocs de navigation qui se répètent (SC 2.4.1).
+
+    L'ordre de focus des éléments est logique (SC 2.4.3).
+
+    Un indicateur de focus est visible (SC 2.4.7).
+
+-tester lecteur d'écran bureau (NVDA)
+guide de test NVDA
+-tester lecteur d'écran mobile
+Guide de test mobile
+
+
+2)SEO (suivre structure cours)
+2.1) checklist audit SEO (non technique & technique)
