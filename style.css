@@ -33,7 +33,7 @@ a:hover {
     top: 0;
     bottom: 0;
     width: 100%;
-    z-index: 100000;
+    
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
@@ -272,7 +272,7 @@ a:hover {
 
 .navbar {
     margin-bottom: 0;
-    z-index: 1;
+    
 }
 
 .navbar-brand {
@@ -302,7 +302,7 @@ a:hover {
     padding-top: 2px;
     margin-right: -16px;
     float: right;
-    z-index: 1;
+   
 }
 
 .nav > li {
@@ -342,7 +342,7 @@ a:hover {
 .nav-invert .navbar-brand {
     float: right;
     position: relative;
-    z-index: 2;
+    
 }
 
 @media (min-width: 768px) {
@@ -500,7 +500,7 @@ button {
     bottom: 20px;
     right: 20px;
     opacity: 0;
-    z-index: 500;
+   
     transition: all .3s ease-in-out;
 }
 
@@ -530,7 +530,7 @@ a[data-lightbox]:hover::before {
     background: rgba(0, 0, 0, .6);
     color: #FFF;
     font-weight: 100;
-    z-index: 1;
+    
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
@@ -575,7 +575,7 @@ a[data-lightbox]:hover img {
     position: absolute;
     top: 20px;
     right: 20px;
-    z-index: 20;
+    
     background: rgba(0, 0, 0, .5);
     border: none;
     line-height: 30px;
@@ -598,7 +598,7 @@ a[data-lightbox]:hover img {
     transition: all .2s ease-in-out;
     position: absolute;
     top: 45%;
-    z-index: 1;
+    
     opacity: 0.4;
 }
 
@@ -1026,6 +1026,11 @@ h4 {
 
 /*corrections CSS SEO et accessibilité*/
 
+#ps-navbar
+{
+    color:#303030;
+}
+
 h2
 {
     color: #303030;
@@ -1120,3 +1125,14 @@ h2
      font-size: 1em;
      color: #303030;
  }
+
+#ps-parlons
+{
+    color: #303030!important;
+}
+
+#ps-parlons-p
+{
+    color: #303030;
+    font-size: 1em;
+}
