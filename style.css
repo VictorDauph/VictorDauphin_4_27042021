@@ -1046,7 +1046,7 @@ h2
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 50%;
+    border-radius: 0%;
     margin-top: 2em;
 }
 
@@ -1076,8 +1076,8 @@ h2
  {
     width: 60%;
     height: 7em;
-    background-color: #303030;
-    border-radius: 50%;
+    background-color: rgba(48,48,48,0.8);
+    border-radius: 0%;
     
 
  }
