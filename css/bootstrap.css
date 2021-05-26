@@ -2288,7 +2288,7 @@ pre code {
     margin-left: 0
 }
 
-@media (min-width:768px) {
+@media (min-width:481px) {
     .col-sm-1,
     .col-sm-10,
     .col-sm-11,

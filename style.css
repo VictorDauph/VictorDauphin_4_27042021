@@ -1159,6 +1159,11 @@ h2
     .img-responsive
     {
         margin: auto;
+        margin-top: 20px ;
     }
-
+    .portfolio-row
+    {
+        margin: auto;
+        
+    }
 }
