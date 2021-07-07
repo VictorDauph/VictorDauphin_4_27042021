@@ -1,13 +1,15 @@
 Projet Chouette Agence.
 
-Audit accessibilité et référencement naturel. Rédaction d'un rapport d'audit et mise en place de corrections. Compétences:
+Audit accessibilité et référencement naturel. Rédaction d'un rapport d'audit et mise en place de corrections. 
+
+Compétences:
 
 Accessibilité: 
     Norme d'accessibilité WCAG -Tests de couleur
     Lecteurs d'écran
     Navigation clavier
     Outils d'audit automatisés 
-    
+
 Référencement naturel: 
     Bonne pratiques HTML
     contrôle Vitesses de chargement
